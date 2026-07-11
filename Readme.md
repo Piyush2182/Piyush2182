@@ -10,9 +10,9 @@
 ---
 
 ### 🚀 What I'm building
-- 🔭 **Nexus** — Biomedical research AI app ([live](https://piyush2182.github.io))
-- 🛠️ **FreelanceOS** — Full-stack client & income management tool (React + Flask + SQLAlchemy)
-- 🌱 Currently learning **Express.js**
+- 📠 MHT-CET score calculator ([live](https://mht-cet-score-calculator.onrender.com/))
+- 🔎 Digital health checker ([live](https://digitalhealthchecker.streamlit.app/))
+- 🌱 Currently learning **R , numpy , ML**
 
 ### 💻 Tech Stack
 <p align="left">
